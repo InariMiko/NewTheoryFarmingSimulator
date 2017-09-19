@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PauseMenuController.cs">
+    <Files>
+      <File FileName="Assets\placing_variable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main\Script\Tile.cs" Line="1" Column="1" />
+      <File FileName="Assets\placing_prevent.cs" Line="1" Column="1" />
+      <File FileName="Assets\Main\Script\globalvariable.cs" Line="1" Column="1" />
+      <File FileName="Assets\PauseMenuController.cs" Line="23" Column="14" />
+      <File FileName="Assets\Main\Script\cameraswitch.cs" Line="51" Column="63" />
+      <File FileName="Assets\Show_result.cs" Line="1" Column="1" />
+      <File FileName="Assets\Loadingscreen\Levelloader.cs" Line="16" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="66" Column="12" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" Line="80" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
